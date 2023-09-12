@@ -82,6 +82,7 @@ input, select, textarea {
 		-ms-overflow-style: scrollbar;
 	}
 
+
 	@media screen and (max-width: 480px) {
 
 		html, body {
@@ -96,10 +97,6 @@ input, select, textarea {
 
 	*, *:before, *:after {
 		box-sizing: inherit;
-	}
-
-	body {
-		background: #ffffff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
