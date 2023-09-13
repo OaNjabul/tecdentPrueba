@@ -80,6 +80,7 @@ input, select, textarea {
 
 	body {
 		-ms-overflow-style: scrollbar;
+		background-image: url('../../images/bg.svg');
 		background: linear-gradient(to right, #ffffff, #05ADBA);
 	}
 
